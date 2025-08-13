@@ -93,3 +93,4 @@ _ReSharper*/
 
 *.sln
 *.vcxproj
+.vscode/
