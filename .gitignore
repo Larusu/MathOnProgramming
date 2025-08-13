@@ -1,32 +1,95 @@
-# Prerequisites
-*.d
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.vcxproj.user
+*.filters
+*.ipch
+*.db
+*.opendb
+*.VC.db
+*.VC.VC.opendb
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.log
+*.tlog
 
-# Fortran module files
-*.mod
-*.smod
+# C++ generated files
+*.i
+*.ii
+*.tlh
+*.tli
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Others
+*.cache
+*.pdb
+*.idb
+*.ilk
+*.ncb
+*.sdf
+*.opensdf
+*.sbr
+*.tlb
+*.tli
+*.tlh
 
-# Executables
-*.exe
-*.out
-*.app
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper (if installed)
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Backup & report files
+*.bak
+*.backup
+*.BLOB
+*.swp
+*.orig
+
+# Other VS extensions' files
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ipdb
+*.pgc
+*.pgd
+
+*.sln
+*.vcxproj

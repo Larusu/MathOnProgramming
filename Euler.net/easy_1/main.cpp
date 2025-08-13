@@ -1,0 +1,20 @@
+// The sum of multiple of 3 and 5
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main()
+{
+	int result = 0;
+
+	for (int i = 3; i < 1000; i++)
+	{
+		if (i % 3 == 0 || i % 5 == 0)
+		{
+			result += i;
+		}
+	}
+	cout << result;
+}
