@@ -1,2 +1,2 @@
-# CppMath
-Using C++ to calculate Mathematical expressions
+# Mathematics on Programming
+Using programming to calculate Mathematical expressions
